@@ -1,0 +1,168 @@
+"Features","Camera","Mean","SD","Min","Max"
+"Median Number of Roots","L1",10.39,4.02,3.6,23
+"Maximum Number of Roots","L1",45.4,10.8,26.4,75
+"Total Root Length","L1",7515.5,2575.96,2957.47,14923.71
+"Depth","L1",179.82,16.9,121.93,211.26
+"Maximum Width","L1",181.21,28.48,124.6,260.07
+"Width-to-Depth Ratio","L1",1.02,0.17,0.67,1.43
+"Network Area","L1",4905.45,1343.33,2174.73,8972.97
+"Convex Area","L1",21193.44,4719.16,10854.3,33837.64
+"Solidity","L1",0.23,0.03,0.16,0.3
+"Perimeter","L1",6353.96,2242.66,2511.75,12357.1
+"Average Radius","L1",0.81,0.17,0.47,1.22
+"Volume","L1",50877.91,21019.98,12016.72,133693.11
+"Surface Area","L1",36272.79,10356.04,13239.99,73852.08
+"Maximum Radius","L1",8.94,1.59,5.25,12.76
+"Lower Root Area","L1",3792.76,1097.33,1684.86,6775.04
+"Shallow Angle Frequency","L1",0.86,0.04,0.76,0.95
+"Medium Angle Frequency","L1",1.06,0.03,0.99,1.13
+"Steep Angle Frequency","L1",0.34,0.02,0.27,0.38
+"Shallowness Index","L1",2.61,0.25,2.01,3.61
+"Fine Radius Frequency","L1",1.47,0.04,1.37,1.58
+"Medium Radius Frequency","L1",0.34,0.07,0.22,0.53
+"Coarse Radius Frequency","L1",0.12,0.04,0.06,0.27
+"Fineness Index","L1",15.02,4.14,6.25,26.68
+"Holes","L1",1724.49,1580.72,243.8,6293
+"Computation","L1",51.83,31.95,9.2,165.61
+"Median Number of Roots","R1",9.01,3.2,3.8,18.2
+"Maximum Number of Roots","R1",41.43,9.19,23.6,73.4
+"Total Root Length","R1",6676.71,2083.08,2707.65,13298.44
+"Depth","R1",181.89,15.38,120.99,205.79
+"Maximum Width","R1",182.57,30.54,115.13,255.97
+"Width-to-Depth Ratio","R1",1.02,0.17,0.61,1.39
+"Network Area","R1",4943.7,1350.2,2254.1,8840.38
+"Convex Area","R1",21389.97,4771.83,11255.34,35728.73
+"Solidity","R1",0.23,0.03,0.16,0.3
+"Perimeter","R1",5736.14,1913.23,2403.31,11321.33
+"Average Radius","R1",0.88,0.15,0.58,1.26
+"Volume","R1",50332.14,20221.63,13019.86,126831.49
+"Surface Area","R1",35580.34,9986.99,14721.76,68325.78
+"Maximum Radius","R1",9.02,1.6,5.16,12.95
+"Lower Root Area","R1",3796.14,1115.24,1559.52,6813.46
+"Shallow Angle Frequency","R1",0.88,0.04,0.79,0.99
+"Medium Angle Frequency","R1",1.05,0.03,0.93,1.11
+"Steep Angle Frequency","R1",0.33,0.02,0.3,0.38
+"Shallowness Index","R1",2.68,0.25,2.08,3.33
+"Fine Radius Frequency","R1",1.48,0.04,1.36,1.57
+"Medium Radius Frequency","R1",0.34,0.07,0.23,0.56
+"Coarse Radius Frequency","R1",0.12,0.04,0.06,0.28
+"Fineness Index","R1",15.05,4.58,5.3,29.09
+"Holes","R1",1098.62,822.05,168.2,4706
+"Computation","R1",41.9,23.88,9.2,131.35
+"Median Number of Roots","L2",8.23,3.38,3,17
+"Maximum Number of Roots","L2",37.72,10.25,18.4,61.6
+"Total Root Length","L2",6560.52,2339.48,2572.64,14264.24
+"Depth","L2",197.08,20.69,137.73,239.29
+"Maximum Width","L2",184.44,30.75,120.5,258.72
+"Width-to-Depth Ratio","L2",0.95,0.17,0.58,1.38
+"Network Area","L2",5160.56,1436.98,2259.19,10082.9
+"Convex Area","L2",23516.8,5466.52,12127.01,36857.2
+"Solidity","L2",0.22,0.03,0.16,0.34
+"Perimeter","L2",5595.44,2158.75,2125.76,11967.6
+"Average Radius","L2",0.98,0.19,0.6,1.4
+"Volume","L2",60799.05,24730.24,14496.06,149463.43
+"Surface Area","L2",38109.54,11237.05,13825.34,81279.79
+"Maximum Radius","L2",9.69,1.69,5.76,13.93
+"Lower Root Area","L2",3889.63,1145.53,1674.85,7778.24
+"Shallow Angle Frequency","L2",0.88,0.04,0.78,1.01
+"Medium Angle Frequency","L2",1.05,0.04,0.93,1.11
+"Steep Angle Frequency","L2",0.34,0.02,0.28,0.39
+"Shallowness Index","L2",2.66,0.29,2.04,3.73
+"Fine Radius Frequency","L2",1.47,0.04,1.36,1.57
+"Medium Radius Frequency","L2",0.35,0.07,0.21,0.52
+"Coarse Radius Frequency","L2",0.13,0.04,0.04,0.26
+"Fineness Index","L2",14.73,8.23,7.29,81.43
+"Holes","L2",870.91,566.57,204.8,2581.4
+"Computation","L2",31.27,19.87,5.94,112.19
+"Median Number of Roots","C",8.69,3.49,2.4,18.7
+"Maximum Number of Roots","C",37.08,9.1,20.4,60.8
+"Total Root Length","C",5879.01,2088.12,2029.49,12121.29
+"Depth","C",175.87,9.94,130.27,199.51
+"Maximum Width","C",196.59,32.77,120.03,275.81
+"Width-to-Depth Ratio","C",1.12,0.18,0.65,1.52
+"Network Area","C",5148.01,1446.57,2321.98,9441.26
+"Convex Area","C",22778.51,4929.93,12344.18,36867.43
+"Solidity","C",0.23,0.03,0.15,0.32
+"Perimeter","C",5126.5,1867.38,2004.37,10181.31
+"Average Radius","C",1.01,0.17,0.64,1.37
+"Volume","C",54550.81,22689.07,10395.75,134977.5
+"Surface Area","C",35718.23,10987.07,11176.36,74556.69
+"Maximum Radius","C",9.61,1.76,5.35,13.3
+"Lower Root Area","C",3944.11,1196.64,1574.87,7192.98
+"Shallow Angle Frequency","C",0.89,0.05,0.79,1.03
+"Medium Angle Frequency","C",1.04,0.04,0.9,1.11
+"Steep Angle Frequency","C",0.33,0.02,0.29,0.42
+"Shallowness Index","C",2.73,0.31,1.95,3.69
+"Fine Radius Frequency","C",1.47,0.05,1.36,1.58
+"Medium Radius Frequency","C",0.34,0.07,0.23,0.53
+"Coarse Radius Frequency","C",0.12,0.04,0.06,0.26
+"Fineness Index","C",14.9,4.17,5.94,25.14
+"Holes","C",620.29,387.28,102.8,2222.8
+"Computation","C",25.68,15.63,4.38,83.2
+"Median Number of Roots","R2",7.59,2.89,2.4,15.6
+"Maximum Number of Roots","R2",35.46,9.02,17.4,68.4
+"Total Root Length","R2",5869.83,2126.03,1948.31,12555.66
+"Depth","R2",190.35,15.22,129.16,211.25
+"Maximum Width","R2",182.95,33.1,115.98,265.89
+"Width-to-Depth Ratio","R2",0.97,0.18,0.59,1.5
+"Network Area","R2",5016.23,1404.58,2210.98,9611.36
+"Convex Area","R2",22445.99,5280.24,10964.6,38869.39
+"Solidity","R2",0.23,0.03,0.16,0.3
+"Perimeter","R2",5019.33,1932.46,1711.81,11034.07
+"Average Radius","R2",1.03,0.18,0.67,1.42
+"Volume","R2",57290.27,24142.88,12966.49,159923.33
+"Surface Area","R2",36289.79,11052.8,12463.81,75218.23
+"Maximum Radius","R2",9.63,1.73,5.6,13.2
+"Lower Root Area","R2",3809.21,1191.27,1550.46,7455.78
+"Shallow Angle Frequency","R2",0.89,0.05,0.77,1
+"Medium Angle Frequency","R2",1.04,0.04,0.93,1.11
+"Steep Angle Frequency","R2",0.34,0.03,0.29,0.42
+"Shallowness Index","R2",2.68,0.32,1.94,3.54
+"Fine Radius Frequency","R2",1.48,0.05,1.36,1.58
+"Medium Radius Frequency","R2",0.36,0.07,0.23,0.6
+"Coarse Radius Frequency","R2",0.13,0.04,0.07,0.28
+"Fineness Index","R2",13.96,4.53,5.83,41.39
+"Holes","R2",671.77,465.08,86.8,2333.4
+"Computation","R2",25.87,16.6,4,88.13
+"Median Number of Roots","AV",8.78,3.23,3.2,17.44
+"Maximum Number of Roots","AV",39.42,8.89,24.44,61.24
+"Total Root Length","AV",6500.31,2122.94,2489.4,13412.06
+"Depth","AV",185,14.95,128.01,208.3
+"Maximum Width","AV",185.55,29.32,124.08,259.31
+"Width-to-Depth Ratio","AV",1.02,0.16,0.65,1.36
+"Network Area","AV",5034.79,1370.57,2307.6,9389.77
+"Convex Area","AV",22264.94,4860.82,11509.08,35403.73
+"Solidity","AV",0.23,0.03,0.16,0.31
+"Perimeter","AV",5566.27,1938.07,2168.29,11314.9
+"Average Radius","AV",0.94,0.16,0.63,1.31
+"Volume","AV",54770.04,22183.42,12578.98,139032.61
+"Surface Area","AV",36394.14,10493.71,13085.45,74008.17
+"Maximum Radius","AV",9.38,1.64,5.42,13.03
+"Lower Root Area","AV",3846.37,1117.31,1710.96,7168.19
+"Shallow Angle Frequency","AV",0.88,0.04,0.79,0.98
+"Medium Angle Frequency","AV",1.05,0.03,0.95,1.11
+"Steep Angle Frequency","AV",0.34,0.02,0.3,0.38
+"Shallowness Index","AV",2.67,0.25,2.09,3.25
+"Fine Radius Frequency","AV",1.47,0.04,1.36,1.57
+"Medium Radius Frequency","AV",0.35,0.07,0.24,0.54
+"Coarse Radius Frequency","AV",0.12,0.04,0.06,0.26
+"Fineness Index","AV",14.73,4.17,6.12,29.66
+"Holes","AV",997.22,666.94,194.4,2972.36
+"Computation","AV",35.31,20.21,6.54,116.1
+"Stem Diameter","M",9.22,2.21,5,15.6
+"Taproot Diameter","M",6.54,1.79,3.6,11.6
+"Overal Complexity Score","M",2.26,0.77,1,4
+"Nodule Size","M",2.56,0.57,1.2,3.8
+"Nodule Density","M",2.09,0.66,0.8,4
+"Upper Primary Lateral Root Number","M",1.22,1.55,0,7.6
+"Upper Secondary Lateral Root Density","M",8,4.62,0,20.75
+"Upper Primary Lateral Angle Median","M",7.71,7.63,0,32.5
+"Upper Primary Lateral Angle Mean","M",8.04,7.85,0,33
+"Lower Primary Lateral Root Number","M",18.95,5.76,7.4,34
+"Lower Secondary Lateral Root Density","M",11.2,3.61,5.6,20.4
+"Lower Primary Lateral Angle Median","M",18.17,7.36,6,36
+"Lower Primary Lateral Angle Mean","M",18.51,6.71,8,34.6
+"Max. Max. Width","CN",201.54,31.97,136.91,275.81
+"Min. Max. Width","CN",170.65,28.26,115.13,247.42
+"Eccentricity","CN",1.18,0.07,1.08,1.36
+"Max. Max. Width-to-Avg. Depth Ratio","CN",1.09,0.17,0.7,1.51
