@@ -61,7 +61,7 @@ Graduate Student,
 Computer Engineering
 University of Missouri, Columbia
 
-asn5d@mail.missouri.edu
+aseethepalli@noble.org
 anand_seethepalli@yahoo.co.in
 
 Dr. Alina Zare

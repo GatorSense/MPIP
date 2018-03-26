@@ -1,3 +1,20 @@
+# Statistical analysis script
+# 
+# Authors:
+#   Anand Seethepalli
+#   Computer Vision Specialist
+#   Root Phenomics,
+#   Noble Research Institute, Ardmore, Oklahoma
+#   Email: aseethepalli@noble.org
+#          anand_seethepalli@yahoo.co.in
+# 
+#   Dr. Larry York
+#   Assistant Professor,
+#   Root Phenomics,
+#   Noble Research Institute, Ardmore, Oklahoma
+#   Email: lmyork@noble.org
+
+
 library(stats)
 library(purrr)
 library(dplyr)
