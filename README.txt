@@ -36,8 +36,9 @@ Pre-requisites for Running the Program
 --------------------------------------
 This program needs an x86_64 processor that can perform AVX2 and FMA operations.
 Any Intel processor with Haswell microarchitecture or later or any AMD processor
-with Excavator or later microarchitecture. Hence, the processor must be released 
-atleast in the year 2014 to support these vector operations.
+with Excavator or later microarchitecture may be used for segmenting the images. 
+Hence, the processor must be released at least in the year 2014 to support these 
+vector operations.
 
 When running the program to utilize NVIDIA GPUs, please make sure to install the
 latest graphics drivers.
@@ -49,8 +50,8 @@ and em_windows respectively. The source code is identical in both the folders. B
 the project files are different. For the linux source, the project is managed by
 Nsight for Eclipse and in windows, it is Nsight for Visual Studio.
 
-Please make sure to install the necessary libraries to compile source codes. Please
-also install the latest version of CUDA Toolkit.
+Please make sure to install the necessary libraries (OpenCV) to compile source codes. 
+Please also install the latest version of CUDA Toolkit.
 
 Authors
 -------
