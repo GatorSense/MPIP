@@ -1,4 +1,4 @@
-If this software is used anywhere, please reference: [![DOI](https://zenodo.org/badge/124405768.svg)](https://zenodo.org/badge/latestdoi/124405768)
+If this software/code is used anywhere, please reference: [![DOI](https://zenodo.org/badge/124405768.svg)](https://zenodo.org/badge/latestdoi/124405768)
 --------------
 
 EM-GMM Program
